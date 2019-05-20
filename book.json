@@ -1,0 +1,9 @@
+{
+    "language": "ja",
+    "plugins": [
+        "hide-published-with", 
+        "-lunr", 
+        "-search", 
+        "search-pro-kui"
+    ]
+}
