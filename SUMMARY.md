@@ -1,8 +1,9 @@
-# Table of contents
+# Summary
 
-# Windows
+* [－－－目次－－－](README.md)
 
-* [● Windows編](src/SyrxEnvW.md)
+-----
+* [● Windows編](src/SyrxEnvW.md#synerex-alpha環境-go言語インストール手順書)
     * [はじめに](src/SyrxEnvW.md#はじめに)
     * [前提条件](src/SyrxEnvW.md#前提条件)
     * [事前確認](src/SyrxEnvW.md#事前確認)
@@ -14,9 +15,6 @@
     * [YARNのインストール](src/SyrxEnvW.md#yarnのインストール)
     * [関連パッケージのインストール](src/SyrxEnvW.md#関連パッケージのインストール)
     * [その他](src/SyrxEnvW.md#その他)
-
-# Mac
-
 * [● Mac編](src/SyrxEnvM.md#synerex-alpha環境-go言語インストール手順書)
     * [はじめに](src/SyrxEnvM.md#はじめに)
     * [前提条件](src/SyrxEnvM.md#前提条件)
@@ -29,9 +27,6 @@
     * [YARNのインストール](src/SyrxEnvM.md#yarnのインストール)
     * [関連パッケージのインストール](src/SyrxEnvM.md#関連パッケージのインストール)
     * [その他](src/SyrxEnvM.md#その他)
-
-#Ubuntu
-
 * [● Ubuntu編](src/SyrxEnvU.md#synerex-alpha環境-go言語インストール手順書)
     * [はじめに](src/SyrxEnvU.md#はじめに)
     * [前提条件](src/SyrxEnvU.md#前提条件)
