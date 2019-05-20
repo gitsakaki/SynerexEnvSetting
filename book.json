@@ -1,9 +1,13 @@
 {
+    "title": "Synerex Alpha User's Guide", 
+    "description": "", 
     "language": "ja",
     "plugins": [
         "hide-published-with", 
+        "-sharing", 
         "-lunr", 
         "-search", 
-        "search-pro-kui"
+        "search-pro-kui", 
+        "expandable-chapters"
     ]
 }
