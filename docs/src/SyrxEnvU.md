@@ -144,7 +144,7 @@ $ go version
 
  公式サイト（URL: [https://golang.org/dl/](https://golang.org/dl/)）より該当する実行ファイルをダウンロードする。
 
-![](/img/ubuntu/u03go01.png)
+![](img/ubuntu/u03go01.png)
 
 
 ### 実行ファイルの展開
@@ -170,7 +170,7 @@ export PATH=$PATH:/usr/local/go/bin
 $ gedit ~/.profile    ← エディタ起動
 ```
 
-![](/img/ubuntu/u03go02.png)
+![](img/ubuntu/u03go02.png)
 
  編集後、保存してエディタを閉じる。その後、環境変数の取込みを行うため、ターミナルから以下のコマンドを実行、またはUbuntuを再起動する。
 
@@ -277,9 +277,9 @@ $ protoc --version
 
  公式サイト（URL: [https://github.com/protocolbuffers/protobuf/releases](https://github.com/protocolbuffers/protobuf/releases)）より該当するUbuntu用モジュールをダウンロードする。
 
-![](/img/ubuntu/u04prt01.png)
+![](img/ubuntu/u04prt01.png)
 
-![](/img/ubuntu/u04prt02.png) 
+![](img/ubuntu/u04prt02.png) 
 
  ダウンロード後、ターミナルから以下のコマンドを実行し、インストールを実施する。
 

@@ -1,8 +1,10 @@
-# Summary
+# Table of contents
+
+## Synerex Alpha環境 Go言語インストール手順書
 
 * [－－－目次－－－](README.md)
 
------
+
 * [● Windows編](src/SyrxEnvW.md#synerex-alpha環境-go言語インストール手順書)
     * [はじめに](src/SyrxEnvW.md#はじめに)
     * [前提条件](src/SyrxEnvW.md#前提条件)
